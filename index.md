@@ -90,3 +90,10 @@ layout: default
 
 　　说到底，一张小小的本地卡，是你开启印度这场盛大冒险的数字钥匙。搞定它，你就能更自如地深入这座次大陆的肌理——从恒河畔的晨雾，到科钦 backwater 的黄昏。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [India SIM 卡购买与激活指南](https://faciylike.github.io/india-sim-guides)
